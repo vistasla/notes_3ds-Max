@@ -1,0 +1,1 @@
+Scanline Renderer supports Top/Bottom Material ,Composite Material best.
